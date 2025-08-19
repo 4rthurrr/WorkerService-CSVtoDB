@@ -1,0 +1,4 @@
+C:\Users\Shanuka Amantha\source\repos\WorkerService1\WorkerService1\bin\Release\net8.0\win-x64\publish\appsettings.Development.json
+C:\Users\Shanuka Amantha\source\repos\WorkerService1\WorkerService1\bin\Release\net8.0\win-x64\publish\appsettings.json
+C:\Users\Shanuka Amantha\source\repos\WorkerService1\WorkerService1\bin\Release\net8.0\win-x64\publish\WorkerService1.pdb
+C:\Users\Shanuka Amantha\source\repos\WorkerService1\WorkerService1\bin\Release\net8.0\win-x64\publish\WorkerService1.exe
